@@ -1,0 +1,36 @@
+abstract final class AssetsManager {
+  static const _path = 'assets/img';
+
+  static const address = '$_path/address.png';
+  static const addressMap = '$_path/address_map.png';
+  static const bagWish = '$_path/bag_wish.png';
+  static const banner1 = '$_path/banner1.png';
+  static const banner2 = '$_path/banner2.png';
+  static const book = '$_path/book_img.png';
+  static const cloud = '$_path/cloud.png';
+  static const cosmetics = '$_path/cosmetics.png';
+  static const electronics = '$_path/electronics.png';
+  static const emptySearch = '$_path/empty_search.png';
+  static const error = '$_path/error.png';
+  static const fashion = '$_path/fashion.png';
+  static const forgotPassword = '$_path/forgot_password.jpg';
+  static const googleLogo = '$_path/googlelogo.png';
+  static const login = '$_path/login.png';
+  static const logout = '$_path/logout.png';
+  static const mobiles = '$_path/mobiles.png';
+  static const order = '$_path/order.png';
+  static const orderSvg = '$_path/order_svg.png';
+  static const pc = '$_path/pc.png';
+  static const privacy = '$_path/privacy.png';
+  static const recent = '$_path/recent.png';
+  static const roundedMap = '$_path/rounded_map.png';
+  static const shoes = '$_path/shoes.png';
+  static const shoppingBasket = '$_path/shopping_basket.png';
+  static const shoppingCart = '$_path/shopping_cart.png';
+  static const successful = '$_path/successful.png';
+  static const theme = '$_path/theme.png';
+  static const warning = '$_path/warning.png';
+  static const watch = '$_path/watch.png';
+  static const wishlist = '$_path/wishlist_svg.png';
+  static const logo = '$_path/logo.png';
+}

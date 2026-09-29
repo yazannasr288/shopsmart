@@ -1,0 +1,36 @@
+class Assetsmaneger {
+  static const String imagepath = 'assets/img';
+  static const String address = '$imagepath/address.png';
+  static const String addressmap = '$imagepath/address_map.png';
+  static const String bagwish = '$imagepath/bag_wish.png';
+  static const String banner1 = '$imagepath/banner1.png';
+  static const String banner2 = '$imagepath/banner2.png';
+  static const String book = '$imagepath/book_img.png';
+  static const String cloud = '$imagepath/cloud.png';
+  static const String cosmetics = '$imagepath/cosmetics.png';
+  static const String elecronics = '$imagepath/electronics.png';
+  static const String emptysearch = '$imagepath/empty_search.png';
+  static const String error = '$imagepath/error.png';
+  static const String fashion = '$imagepath/fashion.png';
+  static const String forgotpassword = '$imagepath/forgot_password.jpg';
+  static const String googleLogo = '$imagepath/googlelogo.png';
+  static const String login = '$imagepath/login.png';
+  static const String logout = '$imagepath/logout.png';
+  static const String mobiles = '$imagepath/mobiles.png';
+  static const String order = '$imagepath/order.png';
+  static const String ordersvg = '$imagepath/order_svg.png';
+  static const String pc = '$imagepath/pc.png';
+  static const String photoapp = '$imagepath/photoapp.webp';
+  static const String privacy = '$imagepath/privacy.png';
+  static const String recent = '$imagepath/recent.png';
+  static const String roundedmap = '$imagepath/rounded_map.png';
+  static const String shoes = '$imagepath/shoes.png';
+  static const String shoppingbasket = '$imagepath/shopping_basket.png';
+  static const String shoppingcart = '$imagepath/shopping_cart.png';
+  static const String successful = '$imagepath/successful.png';
+  static const String theme = '$imagepath/theme.png';
+  static const String warning = '$imagepath/warning.png';
+  static const String watch = '$imagepath/watch.png';
+  static const String wishlist = '$imagepath/wishlist_svg.png';
+  static const String logo = '$imagepath/logo.png';
+}

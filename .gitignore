@@ -1,0 +1,100 @@
+# =========================================
+# Flutter / Dart
+# =========================================
+
+.dart_tool/
+.pub/
+.pub-cache/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_tool_state
+
+# Generated files
+**/GeneratedPluginRegistrant.*
+
+# =========================================
+# IDE / Editors
+# =========================================
+
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# =========================================
+# Android
+# =========================================
+
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+
+# Signing / secrets
+android/key.properties
+android/*.jks
+android/*.keystore
+
+# =========================================
+# iOS
+# =========================================
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# =========================================
+# macOS
+# =========================================
+
+macos/Pods/
+macos/Flutter/ephemeral/
+
+# =========================================
+# Windows
+# =========================================
+
+windows/flutter/ephemeral/
+
+# =========================================
+# Linux
+# =========================================
+
+linux/flutter/ephemeral/
+
+# =========================================
+# Web
+# =========================================
+
+web/flutter_service_worker.js
+web/generated_plugin_registrant.dart
+
+# =========================================
+# Environment / Secrets
+# =========================================
+
+.env
+.env.*
+!.env.example
+
+# =========================================
+# Logs / Temporary files
+# =========================================
+
+*.log
+*.tmp
+*.temp
+*.bak
+
+# =========================================
+# OS files
+# =========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
